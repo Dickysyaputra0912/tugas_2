@@ -8,7 +8,7 @@
 
 <template>
   <h1>BRAND CLOTHING</h1>
-  <center><img src="https://o.remove.bg/downloads/833ea3f7-7e9e-42b9-af13-e7afbe2e4dc7/hydra-removebg-preview.png" alt="" style="width:500px;height:400px;"/></center>
+  <center><img src="https://o.remove.bg/downloads/7e823f2e-416a-41c9-baf6-def44b5dbd54/hydra-removebg-preview.png" alt="logo" style="width:500px;height:400px;"/></center>
   <h2><center>Login</center></h2>
   <form action="/action_page.php"><center>
     <label for="usname">Username:</label>
